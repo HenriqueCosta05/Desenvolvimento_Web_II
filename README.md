@@ -22,6 +22,10 @@ Revisão da disciplina de Desenvolvimento Web I, com a criação de um pequeno w
 
 Introdução ao `Express.js`, com a criação de um servidor web, bem como suas rotas.
 
+### [Aula 3](https://github.com/HenriqueCosta05/Sequelize_Node.js)
+
+Introdução ao `Sequelize`, responsável pela integração com o banco de dados de um website.
+
 ## Objetivos de aprendizagem
 
 1. Conhecer Linguagens Back-End de Programação para desenvolvimento de aplicações web.
