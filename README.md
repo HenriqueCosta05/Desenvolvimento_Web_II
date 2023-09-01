@@ -11,6 +11,10 @@ Codepen é uma ferramenta de **compartilhamento de projetos front end**, atualme
 #### [Notion](https://www.notion.so/)
 
 Notion é uma ferramenta de produtividade, podendo ser utilizada em contextos diversos, visto que nela é possível criar páginas e subpáginas. Além disso, podem ser  integradas diversas outras ferramentas, possibilitando, assim, o aumento na produtividade de projetos nos âmbitos pessoal, acadêmico e corporativo.
+## Cursos e Livros 
+
+#### [Playlist Complementar de Aulas - Node.js](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+"Neste curso você vai aprender na prática como trabalhar com o Node.js e como desenvolver aplicações web utilizando o framework Express.js junto com os bancos de dados MySQL com a biblioteca Sequelize e MongoDB com a biblioteca Mongoose. Espero que gostem do nosso Curso de Node.js com Express.js, MongoDB Mongoose, MySQL Sequelize e Javascript." - Descrição do curso, feita por `Victor Lima`. Todos os direitos são reservados ao autor da playlist. 
 
 ## Ementa da Disciplina
 
@@ -25,6 +29,10 @@ Introdução ao `Express.js`, com a criação de um servidor web, bem como suas 
 ### [Aula 3](https://github.com/HenriqueCosta05/Sequelize_Node.js)
 
 Introdução ao `Sequelize`, responsável pela integração com o banco de dados de um website.
+
+### [Aula 4](https://github.com/HenriqueCosta05/HandleBars_Node.js)
+Manipulação de buffers, gerenciamento de callbacks e eventos assíncronos no Node. Introdução ao `HandleBars`.
+
 
 ## Objetivos de aprendizagem
 
