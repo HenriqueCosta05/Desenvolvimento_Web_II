@@ -33,6 +33,8 @@ Introdução ao `Sequelize`, responsável pela integração com o banco de dados
 ### [Aula 4](https://github.com/HenriqueCosta05/HandleBars_Node.js)
 Manipulação de buffers, gerenciamento de callbacks e eventos assíncronos no Node. Introdução ao `HandleBars`.
 
+### [Aula 5](https://github.com/HenriqueCosta05/HandleBars_Node.js)
+Atualização e exclusão de usuários - Manutenção de Banco de Dados com `Sequelize`
 
 ## Objetivos de aprendizagem
 
